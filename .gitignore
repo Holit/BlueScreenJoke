@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/BlueScreenJoke/v17/ipch/AutoPCH/61f268e5c6722286/VCTMP16448_98608.BLUESCREENJOKE.014286D9.ipch
+/.vs/BlueScreenJoke/v17/Browse.VC.opendb
+*.opendb
