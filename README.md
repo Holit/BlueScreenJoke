@@ -1,6 +1,6 @@
 # BlueScreenJoke
 
-一个自发引起虚假Windows BOSD错误的整蛊程序。
+一个自发引起虚假Windows BSoD错误的整蛊程序。
 
 ### 用法
 
