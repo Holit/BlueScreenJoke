@@ -1,16 +1,12 @@
 # BlueScreenJoke
 
 一个自发引起虚假Windows BSoD错误的整蛊程序。
-
+![演示](README.assets/动画.gif)
 ### 用法
 
 * 直接启动将显示确认对话框
 
-  ![image-20220419230419354](README.assets/image-20220419230419354.png)
-
 * 可以从命令行启动直接唤起蓝屏
-
-  ![image-20220419231430481](README.assets/image-20220419231430481.png)
 
 ### 原理
 
